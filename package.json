@@ -1,0 +1,24 @@
+{
+  "name": "silamble-unit-09-node.js-and-es6-homework-developer-profile-generator",
+  "version": "1.0.0",
+  "description": "HTML version of required PDF with correct GitHub info written to a html file (html.html). Trialing different PDF converters to convert directly from HTML generated or via html file created (trialed \"elctron-html-to\", \"html-pdf\", \"html5-to-pdf\").",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SILamble/SILamble-Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SILamble/SILamble-Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/SILamble/SILamble-Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.3"
+  }
+}
