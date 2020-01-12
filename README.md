@@ -34,6 +34,6 @@ User will receive a text file containing:
 * axios package
 
 # Links
-* Github Repo: https://github.com/SILamble/Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator
+* Github Repo: https://github.com/SILamble/SILamble-Unit-09-Node.js-and-ES6-Homework-Developer-Profile-Generator
 
 
